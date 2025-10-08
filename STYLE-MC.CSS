@@ -1,0 +1,57 @@
+body{
+   background-color:black;
+
+font-family:sans-serif;
+color:White;
+line-height:1.6;
+}
+
+h1{
+color:Green;
+font-size:3rem;
+padding:30px;
+}
+
+article{
+display:flex;
+gap:.5rem;
+flex-wrap:wrap;
+margin:.75rem 0 1.5ren o;
+}
+
+article{
+background-color:transperent;
+border:solid;
+}
+div{
+   display:grid;
+grid-template-columns:1fr;
+color:var;
+transform:translateY;
+align-items:center;
+border:solid var;
+width:100%;
+display:block;
+}
+
+h3{
+   font-weight:700;
+  fong-size:1.7rem;
+}
+
+p{
+font-size:1.5rem;
+
+}
+nav{
+   text-align:right;
+
+}
+
+a{
+ color:green;
+ border:solid;
+}
+
+
+

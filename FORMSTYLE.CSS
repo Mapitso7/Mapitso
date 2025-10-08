@@ -1,0 +1,66 @@
+body{
+ background-color:black;
+padding="25px";
+box-shadow:0 0 10px rgba(0,0,0,0,,1);
+ border-radius:5px;
+max-width:400px;
+
+}
+form{
+ background-color:white;
+display:block;
+font-weight:bold;
+text-align:center;
+cursor:pointer;
+}
+form{
+         margin-top:10px;
+border:solid;
+border-radius:2px;
+cursor:pointer;
+
+}
+ div{
+border:solid;
+backgroud-color:pink;
+
+
+}
+
+form:hover{
+background-colour:#005599;
+}
+
+nav{
+background-color:red;
+margin-top:20px;
+padding: 10px 20px;
+}
+taxtarea{
+    border:2px solid;
+    box-sizing:border-box;
+     border-radius:4px;
+}
+button{
+     color:green;
+background-colour:black;
+cursor:pointer;
+
+}
+a{
+  border:solid;
+color:white;
+}
+
+h1{
+color:green;
+font-size:2rem;
+padding:20px;
+text-align:center;
+}
+
+section{
+text-align:center;
+}
+
+

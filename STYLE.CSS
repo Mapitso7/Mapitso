@@ -1,0 +1,64 @@
+body{ background-color:#00FFFF;
+      font-family:'poppings',sans-sarif;
+       margin:2;
+       line-height:2.3;
+       color:#333;
+}
+
+em{font-style:italic;}
+
+culture{font-weight:bold;}
+
+h1{ fond:italic bold 14px Arial sans farif;
+     text-align:center;
+   border:dashed;
+border-color:white;
+}
+p{
+  fond-family:verdana;
+   fond-size:20px;
+background-color:none;
+padding:30px;
+max-width:1000px;
+text-align:center;
+}
+
+h2{
+   text-align:center;
+    color:red;
+}
+.p2{
+font-family:cursive;
+color:pink;
+background-color:none;
+}
+div{
+Display:flex;
+padding:1rem;
+justify-content:space-between;
+align-iterms:center;
+background-color:#f9f9f9;
+
+}
+div {
+text-duration:none;
+color:black;
+margin:0  15px;
+fond wight:bold;
+}
+div a:hover{
+color:red;
+}
+section{
+    background:url(BASOTHO.GIF) no-repeat center/cover
+
+
+}
+
+
+marquee{
+     width:100%;
+    
+}
+
+
